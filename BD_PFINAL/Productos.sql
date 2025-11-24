@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[Productos]
+(
+	IdProducto INT PRIMARY KEY IDENTITY(1,1),
+	Nombre NVARCHAR(100) NOT NULL,
+	Codigo NVARCHAR(100) NOT NULL,
+	Categoria NVARCHAR(100) NOT NULL,
+	PrecioUnitario DECIMAL(18,2) NOT NULL,
+	Cantidad INT NOT NULl,
+)

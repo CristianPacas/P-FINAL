@@ -1,0 +1,10 @@
+C:\Users\crist\Desktop\Escritorio\POE\COD. P-FINAL\P-FINAL\BD_PFINAL\bin\Debug\BD_PFINAL.dacpac
+C:\Users\crist\Desktop\Escritorio\POE\COD. P-FINAL\P-FINAL\BD_PFINAL\bin\Debug\BD_PFINAL.dll
+C:\Users\crist\Desktop\Escritorio\POE\COD. P-FINAL\P-FINAL\BD_PFINAL\bin\Debug\BD_PFINAL.pdb
+C:\Users\crist\Desktop\Escritorio\POE\COD. P-FINAL\P-FINAL\BD_PFINAL\obj\Debug\BD_PFINAL.sqlproj.AssemblyReference.cache
+C:\Users\crist\Desktop\Escritorio\POE\COD. P-FINAL\P-FINAL\BD_PFINAL\obj\Debug\Model.xml
+C:\Users\crist\Desktop\Escritorio\POE\COD. P-FINAL\P-FINAL\BD_PFINAL\obj\Debug\refactor.xml
+C:\Users\crist\Desktop\Escritorio\POE\COD. P-FINAL\P-FINAL\BD_PFINAL\obj\Debug\postdeploy.sql
+C:\Users\crist\Desktop\Escritorio\POE\COD. P-FINAL\P-FINAL\BD_PFINAL\obj\Debug\predeploy.sql
+C:\Users\crist\Desktop\Escritorio\POE\COD. P-FINAL\P-FINAL\BD_PFINAL\obj\Debug\BD_PFINAL.dll
+C:\Users\crist\Desktop\Escritorio\POE\COD. P-FINAL\P-FINAL\BD_PFINAL\obj\Debug\BD_PFINAL.pdb
