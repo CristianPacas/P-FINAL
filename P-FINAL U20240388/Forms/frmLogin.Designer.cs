@@ -67,6 +67,7 @@
             this.btnIniciarSesion.TabIndex = 20;
             this.btnIniciarSesion.Text = "INGRESAR";
             this.btnIniciarSesion.UseVisualStyleBackColor = false;
+            this.btnIniciarSesion.Click += new System.EventHandler(this.btnIniciarSesion_Click_1);
             // 
             // pictureBox3
             // 

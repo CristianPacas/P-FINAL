@@ -30,7 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmRegistrarProductoCmd));
             this.btnCancelar3 = new System.Windows.Forms.Button();
-            this.btnRegistrar2 = new System.Windows.Forms.Button();
+            this.btnGuardar2 = new System.Windows.Forms.Button();
             this.txtCategoria2 = new System.Windows.Forms.TextBox();
             this.lblCategoria2 = new System.Windows.Forms.Label();
             this.txtCantidad2 = new System.Windows.Forms.TextBox();
@@ -58,17 +58,17 @@
             this.btnCancelar3.Text = "CANCELAR";
             this.btnCancelar3.UseVisualStyleBackColor = false;
             // 
-            // btnRegistrar2
+            // btnGuardar2
             // 
-            this.btnRegistrar2.BackColor = System.Drawing.Color.Lime;
-            this.btnRegistrar2.Font = new System.Drawing.Font("Tw Cen MT Condensed Extra Bold", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnRegistrar2.ForeColor = System.Drawing.Color.White;
-            this.btnRegistrar2.Location = new System.Drawing.Point(628, 195);
-            this.btnRegistrar2.Name = "btnRegistrar2";
-            this.btnRegistrar2.Size = new System.Drawing.Size(117, 54);
-            this.btnRegistrar2.TabIndex = 57;
-            this.btnRegistrar2.Text = "GUARDAR";
-            this.btnRegistrar2.UseVisualStyleBackColor = false;
+            this.btnGuardar2.BackColor = System.Drawing.Color.Lime;
+            this.btnGuardar2.Font = new System.Drawing.Font("Tw Cen MT Condensed Extra Bold", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnGuardar2.ForeColor = System.Drawing.Color.White;
+            this.btnGuardar2.Location = new System.Drawing.Point(628, 195);
+            this.btnGuardar2.Name = "btnGuardar2";
+            this.btnGuardar2.Size = new System.Drawing.Size(117, 54);
+            this.btnGuardar2.TabIndex = 57;
+            this.btnGuardar2.Text = "GUARDAR";
+            this.btnGuardar2.UseVisualStyleBackColor = false;
             // 
             // txtCategoria2
             // 
@@ -201,7 +201,7 @@
             this.ClientSize = new System.Drawing.Size(943, 539);
             this.Controls.Add(this.dgvRegistrar1);
             this.Controls.Add(this.btnCancelar3);
-            this.Controls.Add(this.btnRegistrar2);
+            this.Controls.Add(this.btnGuardar2);
             this.Controls.Add(this.txtCategoria2);
             this.Controls.Add(this.lblCategoria2);
             this.Controls.Add(this.txtCantidad2);
@@ -215,6 +215,7 @@
             this.Controls.Add(this.label1);
             this.Name = "frmRegistrarProductoCmd";
             this.Text = "frmRegistrarProductoCmd";
+            this.Load += new System.EventHandler(this.frmRegistrarProductoCmd_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvRegistrar1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -224,7 +225,7 @@
         #endregion
 
         private System.Windows.Forms.Button btnCancelar3;
-        private System.Windows.Forms.Button btnRegistrar2;
+        private System.Windows.Forms.Button btnGuardar2;
         private System.Windows.Forms.TextBox txtCategoria2;
         private System.Windows.Forms.Label lblCategoria2;
         private System.Windows.Forms.TextBox txtCantidad2;

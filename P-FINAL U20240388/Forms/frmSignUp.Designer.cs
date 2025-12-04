@@ -70,6 +70,7 @@
             this.btnCancelar0.TabIndex = 31;
             this.btnCancelar0.Text = "CANCELAR";
             this.btnCancelar0.UseVisualStyleBackColor = false;
+            this.btnCancelar0.Click += new System.EventHandler(this.btnCancelar0_Click);
             // 
             // btnRegistrar
             // 
@@ -82,6 +83,7 @@
             this.btnRegistrar.TabIndex = 30;
             this.btnRegistrar.Text = "REGISTRAR";
             this.btnRegistrar.UseVisualStyleBackColor = false;
+            this.btnRegistrar.Click += new System.EventHandler(this.btnRegistrar_Click_1);
             // 
             // pictureBox2
             // 
@@ -95,11 +97,12 @@
             // 
             // txtContraseña
             // 
-            this.txtContraseña.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtContraseña.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtContraseña.Location = new System.Drawing.Point(361, 159);
             this.txtContraseña.Name = "txtContraseña";
-            this.txtContraseña.Size = new System.Drawing.Size(209, 24);
+            this.txtContraseña.Size = new System.Drawing.Size(209, 25);
             this.txtContraseña.TabIndex = 27;
+            this.txtContraseña.TextChanged += new System.EventHandler(this.txtContraseña_TextChanged);
             // 
             // lblContraseña
             // 
@@ -116,10 +119,10 @@
             // txtUsuario
             // 
             this.txtUsuario.BackColor = System.Drawing.Color.White;
-            this.txtUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtUsuario.Location = new System.Drawing.Point(361, 87);
             this.txtUsuario.Name = "txtUsuario";
-            this.txtUsuario.Size = new System.Drawing.Size(209, 24);
+            this.txtUsuario.Size = new System.Drawing.Size(209, 25);
             this.txtUsuario.TabIndex = 25;
             this.txtUsuario.TextChanged += new System.EventHandler(this.txtUsuario_TextChanged);
             // 
@@ -157,11 +160,12 @@
             // 
             // txtConfirmarContraseña
             // 
-            this.txtConfirmarContraseña.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtConfirmarContraseña.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtConfirmarContraseña.Location = new System.Drawing.Point(361, 242);
             this.txtConfirmarContraseña.Name = "txtConfirmarContraseña";
-            this.txtConfirmarContraseña.Size = new System.Drawing.Size(209, 24);
+            this.txtConfirmarContraseña.Size = new System.Drawing.Size(209, 25);
             this.txtConfirmarContraseña.TabIndex = 34;
+            this.txtConfirmarContraseña.TextChanged += new System.EventHandler(this.txtConfirmarContraseña_TextChanged);
             // 
             // lblConfirmarContraseña
             // 
@@ -186,6 +190,7 @@
             this.btnIraIniciarSesion.TabIndex = 36;
             this.btnIraIniciarSesion.Text = "INICIAR SESION";
             this.btnIraIniciarSesion.UseVisualStyleBackColor = false;
+            this.btnIraIniciarSesion.Click += new System.EventHandler(this.btnIraIniciarSesion_Click);
             // 
             // frmSignUp
             // 

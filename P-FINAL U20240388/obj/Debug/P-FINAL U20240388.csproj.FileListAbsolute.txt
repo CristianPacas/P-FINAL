@@ -112,3 +112,6 @@ C:\Users\crist\Desktop\Escritorio\POE\COD. P-FINAL\P-FINAL\P-FINAL U20240388\obj
 C:\Users\crist\Desktop\Escritorio\POE\COD. P-FINAL\P-FINAL\P-FINAL U20240388\obj\Debug\P-FINAL .4C99DF5B.Up2Date
 C:\Users\crist\Desktop\Escritorio\POE\COD. P-FINAL\P-FINAL\P-FINAL U20240388\obj\Debug\P-FINAL U20240388.exe
 C:\Users\crist\Desktop\Escritorio\POE\COD. P-FINAL\P-FINAL\P-FINAL U20240388\obj\Debug\P-FINAL U20240388.pdb
+C:\Users\crist\Desktop\Escritorio\POE\COD. P-FINAL\P-FINAL\P-FINAL U20240388\obj\Debug\P-FINAL U20240388.exe.config
+C:\Users\crist\Desktop\Escritorio\POE\COD. P-FINAL\P-FINAL\P-FINAL U20240388\obj\Debug\P_FINAL_U20240388.Forms.frmRegistrarCliente.resources
+C:\Users\crist\Desktop\Escritorio\POE\COD. P-FINAL\P-FINAL\P-FINAL U20240388\obj\Debug\P_FINAL_U20240388.Forms.frmVenta.resources

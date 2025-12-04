@@ -43,6 +43,7 @@
             this.btnRegistrar = new System.Windows.Forms.Button();
             this.btnCancelar2 = new System.Windows.Forms.Button();
             this.dgvRegistro0 = new System.Windows.Forms.DataGridView();
+            this.btnEditar = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvRegistro0)).BeginInit();
             this.SuspendLayout();
             // 
@@ -101,7 +102,7 @@
             // txtCodigo
             // 
             this.txtCodigo.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtCodigo.Location = new System.Drawing.Point(654, 62);
+            this.txtCodigo.Location = new System.Drawing.Point(661, 35);
             this.txtCodigo.Name = "txtCodigo";
             this.txtCodigo.Size = new System.Drawing.Size(209, 24);
             this.txtCodigo.TabIndex = 39;
@@ -112,7 +113,7 @@
             this.lblCodigo.BackColor = System.Drawing.Color.Black;
             this.lblCodigo.Font = new System.Drawing.Font("Tw Cen MT Condensed Extra Bold", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblCodigo.ForeColor = System.Drawing.Color.Ivory;
-            this.lblCodigo.Location = new System.Drawing.Point(712, 38);
+            this.lblCodigo.Location = new System.Drawing.Point(719, 11);
             this.lblCodigo.Name = "lblCodigo";
             this.lblCodigo.Size = new System.Drawing.Size(71, 21);
             this.lblCodigo.TabIndex = 38;
@@ -121,7 +122,7 @@
             // txtCantidad
             // 
             this.txtCantidad.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtCantidad.Location = new System.Drawing.Point(654, 139);
+            this.txtCantidad.Location = new System.Drawing.Point(661, 112);
             this.txtCantidad.Name = "txtCantidad";
             this.txtCantidad.Size = new System.Drawing.Size(209, 24);
             this.txtCantidad.TabIndex = 41;
@@ -132,7 +133,7 @@
             this.lblCantidad.BackColor = System.Drawing.Color.Black;
             this.lblCantidad.Font = new System.Drawing.Font("Tw Cen MT Condensed Extra Bold", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblCantidad.ForeColor = System.Drawing.Color.Ivory;
-            this.lblCantidad.Location = new System.Drawing.Point(712, 115);
+            this.lblCantidad.Location = new System.Drawing.Point(719, 88);
             this.lblCantidad.Name = "lblCantidad";
             this.lblCantidad.Size = new System.Drawing.Size(89, 21);
             this.lblCantidad.TabIndex = 40;
@@ -163,24 +164,26 @@
             this.btnRegistrar.BackColor = System.Drawing.Color.Lime;
             this.btnRegistrar.Font = new System.Drawing.Font("Tw Cen MT Condensed Extra Bold", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnRegistrar.ForeColor = System.Drawing.Color.White;
-            this.btnRegistrar.Location = new System.Drawing.Point(621, 195);
+            this.btnRegistrar.Location = new System.Drawing.Point(590, 142);
             this.btnRegistrar.Name = "btnRegistrar";
             this.btnRegistrar.Size = new System.Drawing.Size(117, 54);
             this.btnRegistrar.TabIndex = 44;
             this.btnRegistrar.Text = "GUARDAR";
             this.btnRegistrar.UseVisualStyleBackColor = false;
+            this.btnRegistrar.Click += new System.EventHandler(this.btnRegistrar_Click);
             // 
             // btnCancelar2
             // 
             this.btnCancelar2.BackColor = System.Drawing.Color.Red;
             this.btnCancelar2.Font = new System.Drawing.Font("Tw Cen MT Condensed Extra Bold", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCancelar2.ForeColor = System.Drawing.Color.White;
-            this.btnCancelar2.Location = new System.Drawing.Point(779, 195);
+            this.btnCancelar2.Location = new System.Drawing.Point(691, 195);
             this.btnCancelar2.Name = "btnCancelar2";
             this.btnCancelar2.Size = new System.Drawing.Size(117, 54);
             this.btnCancelar2.TabIndex = 45;
             this.btnCancelar2.Text = "CANCELAR";
             this.btnCancelar2.UseVisualStyleBackColor = false;
+            this.btnCancelar2.Click += new System.EventHandler(this.btnCancelar2_Click);
             // 
             // dgvRegistro0
             // 
@@ -192,6 +195,19 @@
             this.dgvRegistro0.Size = new System.Drawing.Size(930, 250);
             this.dgvRegistro0.TabIndex = 46;
             // 
+            // btnEditar
+            // 
+            this.btnEditar.BackColor = System.Drawing.Color.Lime;
+            this.btnEditar.Font = new System.Drawing.Font("Tw Cen MT Condensed Extra Bold", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEditar.ForeColor = System.Drawing.Color.White;
+            this.btnEditar.Location = new System.Drawing.Point(801, 142);
+            this.btnEditar.Name = "btnEditar";
+            this.btnEditar.Size = new System.Drawing.Size(117, 54);
+            this.btnEditar.TabIndex = 47;
+            this.btnEditar.Text = "EDITAR";
+            this.btnEditar.UseVisualStyleBackColor = false;
+            this.btnEditar.Click += new System.EventHandler(this.btnEditar_Click);
+            // 
             // frmRegistrarProducto
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -199,6 +215,7 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.ClientSize = new System.Drawing.Size(930, 504);
+            this.Controls.Add(this.btnEditar);
             this.Controls.Add(this.dgvRegistro0);
             this.Controls.Add(this.btnCancelar2);
             this.Controls.Add(this.btnRegistrar);
@@ -215,6 +232,7 @@
             this.Controls.Add(this.label1);
             this.Name = "frmRegistrarProducto";
             this.Text = "frmRegistrarProducto";
+            this.Load += new System.EventHandler(this.frmRegistrarProducto_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvRegistro0)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -237,5 +255,6 @@
         private System.Windows.Forms.Button btnRegistrar;
         private System.Windows.Forms.Button btnCancelar2;
         private System.Windows.Forms.DataGridView dgvRegistro0;
+        private System.Windows.Forms.Button btnEditar;
     }
 }

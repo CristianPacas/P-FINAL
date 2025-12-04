@@ -29,24 +29,25 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmRegistrarCliente));
-            this.txtCodigo = new System.Windows.Forms.TextBox();
+            this.txtCodigoCliente = new System.Windows.Forms.TextBox();
             this.lblCodigo0 = new System.Windows.Forms.Label();
-            this.txtNombre0 = new System.Windows.Forms.TextBox();
+            this.txtNombreCliente = new System.Windows.Forms.TextBox();
             this.lblNombre0 = new System.Windows.Forms.Label();
-            this.txtDUINIT = new System.Windows.Forms.TextBox();
+            this.txtDUICliente = new System.Windows.Forms.TextBox();
             this.lblDUINIT = new System.Windows.Forms.Label();
             this.btnCancelar10 = new System.Windows.Forms.Button();
             this.btnGuardar10 = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // txtCodigo
+            // txtCodigoCliente
             // 
-            this.txtCodigo.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtCodigo.Location = new System.Drawing.Point(246, 139);
-            this.txtCodigo.Name = "txtCodigo";
-            this.txtCodigo.Size = new System.Drawing.Size(209, 24);
-            this.txtCodigo.TabIndex = 15;
+            this.txtCodigoCliente.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtCodigoCliente.Location = new System.Drawing.Point(246, 139);
+            this.txtCodigoCliente.Name = "txtCodigoCliente";
+            this.txtCodigoCliente.Size = new System.Drawing.Size(209, 24);
+            this.txtCodigoCliente.TabIndex = 15;
+            this.txtCodigoCliente.TextChanged += new System.EventHandler(this.txtCodigoCliente_TextChanged);
             // 
             // lblCodigo0
             // 
@@ -60,13 +61,13 @@
             this.lblCodigo0.TabIndex = 14;
             this.lblCodigo0.Text = "CODIGO:";
             // 
-            // txtNombre0
+            // txtNombreCliente
             // 
-            this.txtNombre0.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtNombre0.Location = new System.Drawing.Point(246, 244);
-            this.txtNombre0.Name = "txtNombre0";
-            this.txtNombre0.Size = new System.Drawing.Size(209, 24);
-            this.txtNombre0.TabIndex = 17;
+            this.txtNombreCliente.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtNombreCliente.Location = new System.Drawing.Point(246, 244);
+            this.txtNombreCliente.Name = "txtNombreCliente";
+            this.txtNombreCliente.Size = new System.Drawing.Size(209, 24);
+            this.txtNombreCliente.TabIndex = 17;
             // 
             // lblNombre0
             // 
@@ -80,13 +81,14 @@
             this.lblNombre0.TabIndex = 16;
             this.lblNombre0.Text = "NOMBRE:";
             // 
-            // txtDUINIT
+            // txtDUICliente
             // 
-            this.txtDUINIT.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtDUINIT.Location = new System.Drawing.Point(246, 331);
-            this.txtDUINIT.Name = "txtDUINIT";
-            this.txtDUINIT.Size = new System.Drawing.Size(209, 24);
-            this.txtDUINIT.TabIndex = 19;
+            this.txtDUICliente.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtDUICliente.Location = new System.Drawing.Point(246, 331);
+            this.txtDUICliente.Name = "txtDUICliente";
+            this.txtDUICliente.Size = new System.Drawing.Size(209, 24);
+            this.txtDUICliente.TabIndex = 19;
+            this.txtDUICliente.TextChanged += new System.EventHandler(this.txtDUICliente_TextChanged);
             // 
             // lblDUINIT
             // 
@@ -123,6 +125,7 @@
             this.btnGuardar10.TabIndex = 46;
             this.btnGuardar10.Text = "GUARDAR";
             this.btnGuardar10.UseVisualStyleBackColor = false;
+            this.btnGuardar10.Click += new System.EventHandler(this.btnGuardar10_Click);
             // 
             // label4
             // 
@@ -145,14 +148,15 @@
             this.Controls.Add(this.label4);
             this.Controls.Add(this.btnCancelar10);
             this.Controls.Add(this.btnGuardar10);
-            this.Controls.Add(this.txtDUINIT);
+            this.Controls.Add(this.txtDUICliente);
             this.Controls.Add(this.lblDUINIT);
-            this.Controls.Add(this.txtNombre0);
+            this.Controls.Add(this.txtNombreCliente);
             this.Controls.Add(this.lblNombre0);
-            this.Controls.Add(this.txtCodigo);
+            this.Controls.Add(this.txtCodigoCliente);
             this.Controls.Add(this.lblCodigo0);
             this.Name = "frmRegistrarCliente";
             this.Text = "frmRegistrarCliente";
+            this.Load += new System.EventHandler(this.frmRegistrarCliente_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -160,11 +164,11 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox txtCodigo;
+        private System.Windows.Forms.TextBox txtCodigoCliente;
         private System.Windows.Forms.Label lblCodigo0;
-        private System.Windows.Forms.TextBox txtNombre0;
+        private System.Windows.Forms.TextBox txtNombreCliente;
         private System.Windows.Forms.Label lblNombre0;
-        private System.Windows.Forms.TextBox txtDUINIT;
+        private System.Windows.Forms.TextBox txtDUICliente;
         private System.Windows.Forms.Label lblDUINIT;
         private System.Windows.Forms.Button btnCancelar10;
         private System.Windows.Forms.Button btnGuardar10;

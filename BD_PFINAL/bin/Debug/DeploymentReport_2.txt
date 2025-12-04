@@ -1,0 +1,21 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a crear con los datos migrados
+       Ninguno
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles incidencias de datos
+       Ninguno
+
+** Acciones del usuario
+     Crear
+       [dbo].[DetalleVenta] (Tabla)
+       [dbo].[Ventas] (Tabla)
+       Restricción DEFAULT: restricción sin nombre en [dbo].[Ventas] (Restricción DEFAULT)
+       [dbo].[FK_DetalleVenta_Ventas] (Clave externa)
+
+** Acciones de compatibilidad
+
+Las bases de datos del proyecto y de destino tienen una configuración de intercalación diferente. Se pueden producir errores de implementación.
+

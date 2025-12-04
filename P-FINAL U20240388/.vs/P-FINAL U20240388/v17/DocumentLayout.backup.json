@@ -3,28 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|c:\\users\\crist\\desktop\\escritorio\\poe\\cod. p-final\\p-final\\p-final u20240388\\forms\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|solutionrelative:forms\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|c:\\users\\crist\\desktop\\escritorio\\poe\\cod. p-final\\p-final\\p-final u20240388\\forms\\frmregistrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|solutionrelative:forms\\frmregistrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|c:\\users\\crist\\desktop\\escritorio\\poe\\cod. p-final\\p-final\\p-final u20240388\\forms\\frmregistrarproductocmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|solutionrelative:forms\\frmregistrarproductocmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|c:\\users\\crist\\desktop\\escritorio\\poe\\cod. p-final\\p-final\\p-final u20240388\\forms\\frmregistrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|solutionrelative:forms\\frmregistrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|c:\\users\\crist\\desktop\\escritorio\\poe\\cod. p-final\\p-final\\p-final u20240388\\repositorios\\productosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|solutionrelative:repositorios\\productosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|c:\\users\\crist\\desktop\\escritorio\\poe\\cod. p-final\\p-final\\p-final u20240388\\forms\\frmregistrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|solutionrelative:forms\\frmregistrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|c:\\users\\crist\\desktop\\escritorio\\poe\\cod. p-final\\p-final\\p-final u20240388\\forms\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|solutionrelative:forms\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\forms\\frmregistrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|solutionrelative:forms\\frmregistrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|c:\\users\\crist\\desktop\\escritorio\\poe\\cod. p-final\\p-final\\p-final u20240388\\forms\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|solutionrelative:forms\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\forms\\frmregistrarproductocmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|solutionrelative:forms\\frmregistrarproductocmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|c:\\users\\crist\\desktop\\escritorio\\poe\\cod. p-final\\p-final\\p-final u20240388\\forms\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|solutionrelative:forms\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\forms\\frmregistrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|solutionrelative:forms\\frmregistrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|c:\\users\\crist\\desktop\\escritorio\\poe\\cod. p-final\\p-final\\p-final u20240388\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|solutionrelative:forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\forms\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|solutionrelative:forms\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|c:\\users\\crist\\desktop\\escritorio\\poe\\cod. p-final\\p-final\\p-final u20240388\\forms\\frmregistrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|solutionrelative:forms\\frmregistrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|c:\\users\\crist\\desktop\\escritorio\\poe\\cod. p-final\\p-final\\p-final u20240388\\forms\\frmregistrarproductocmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|solutionrelative:forms\\frmregistrarproductocmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|c:\\users\\crist\\desktop\\escritorio\\poe\\cod. p-final\\p-final\\p-final u20240388\\forms\\frmregistrarproductocmd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A08CCF-D7B3-4EB4-BCE7-C46AFA4F1296}|P-FINAL U20240388.csproj|solutionrelative:forms\\frmregistrarproductocmd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,39 +70,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmRegistrarCliente.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmRegistrarCliente.cs",
-              "RelativeDocumentMoniker": "Forms\\frmRegistrarCliente.cs",
-              "ToolTip": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmRegistrarCliente.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Forms\\frmRegistrarCliente.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T05:41:34.277Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmSignUp.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmSignUp.cs",
-              "RelativeDocumentMoniker": "Forms\\frmSignUp.cs",
-              "ToolTip": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmSignUp.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Forms\\frmSignUp.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T05:21:31.176Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "frmLogin.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmLogin.cs",
-              "RelativeDocumentMoniker": "Forms\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmLogin.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Forms\\frmLogin.cs [Dise\u00F1o]",
+              "Title": "ProductosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Repositorios\\ProductosRepository.cs",
+              "RelativeDocumentMoniker": "Repositorios\\ProductosRepository.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Repositorios\\ProductosRepository.cs",
+              "RelativeToolTip": "Repositorios\\ProductosRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwG4AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T05:11:47.565Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-12-04T08:46:57.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmRegistrarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmRegistrarProducto.cs",
+              "RelativeDocumentMoniker": "Forms\\frmRegistrarProducto.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmRegistrarProducto.cs",
+              "RelativeToolTip": "Forms\\frmRegistrarProducto.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAAAlwPQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:35:34.36Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -85,31 +103,132 @@
               "ToolTip": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmRegistrarProducto.cs [Dise\u00F1o]",
               "RelativeToolTip": "Forms\\frmRegistrarProducto.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T05:12:16.584Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmRegistrarProductoCmd.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmRegistrarProductoCmd.cs",
-              "RelativeDocumentMoniker": "Forms\\frmRegistrarProductoCmd.cs",
-              "ToolTip": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmRegistrarProductoCmd.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Forms\\frmRegistrarProductoCmd.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T05:05:59.148Z",
+              "WhenOpened": "2025-12-04T08:35:30.118Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmSignUp.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmSignUp.cs",
+              "RelativeDocumentMoniker": "Forms\\frmSignUp.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmSignUp.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\frmSignUp.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T06:59:46.56Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmVenta.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmVenta.cs",
+              "RelativeDocumentMoniker": "Forms\\frmVenta.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmVenta.cs",
+              "RelativeToolTip": "Forms\\frmVenta.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAAAlwOIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T06:17:58.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "frmVenta.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmVenta.cs",
               "RelativeDocumentMoniker": "Forms\\frmVenta.cs",
               "ToolTip": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmVenta.cs [Dise\u00F1o]",
               "RelativeToolTip": "Forms\\frmVenta.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T05:19:16.199Z",
+              "WhenOpened": "2025-12-04T06:17:53.16Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmRegistrarCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmRegistrarCliente.cs",
+              "RelativeDocumentMoniker": "Forms\\frmRegistrarCliente.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmRegistrarCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\frmRegistrarCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T06:05:35.928Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmRegistrarProductoCmd.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmRegistrarProductoCmd.cs",
+              "RelativeDocumentMoniker": "Forms\\frmRegistrarProductoCmd.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmRegistrarProductoCmd.cs",
+              "RelativeToolTip": "Forms\\frmRegistrarProductoCmd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T03:53:20.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmSignUp.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmSignUp.cs",
+              "RelativeDocumentMoniker": "Forms\\frmSignUp.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmSignUp.cs",
+              "RelativeToolTip": "Forms\\frmSignUp.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAlwMEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:49:53.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmRegistrarCliente.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmRegistrarCliente.cs",
+              "RelativeDocumentMoniker": "Forms\\frmRegistrarCliente.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmRegistrarCliente.cs",
+              "RelativeToolTip": "Forms\\frmRegistrarCliente.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAQwG4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:38:59.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Forms\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\frmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:38:19.976Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmRegistrarProductoCmd.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmRegistrarProductoCmd.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\frmRegistrarProductoCmd.Designer.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmRegistrarProductoCmd.Designer.cs",
+              "RelativeToolTip": "Forms\\frmRegistrarProductoCmd.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwPEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:16:05.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmRegistrarProductoCmd.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmRegistrarProductoCmd.cs",
+              "RelativeDocumentMoniker": "Forms\\frmRegistrarProductoCmd.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Escritorio\\POE\\COD. P-FINAL\\P-FINAL\\P-FINAL U20240388\\Forms\\frmRegistrarProductoCmd.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\frmRegistrarProductoCmd.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:59:29.284Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
